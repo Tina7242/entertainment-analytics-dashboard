@@ -94,18 +94,18 @@ The final dashboard visualises:
 - Yearly trends
 - Country-level insights
 
-![Dashboard]
+![Dashboard]dashboard/Dashboard 1.png
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - SQL (BigQuery)
 - Tableau
-- Excel / Google Sheets
+- Google Sheets
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Netflix and Spotify show the highest engagement
 - Action, Music, and Science Fiction are top-performing genres
@@ -114,7 +114,7 @@ The final dashboard visualises:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This project uses a simulated dataset created for portfolio purposes only.
 
 ---
