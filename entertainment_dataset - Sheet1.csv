@@ -1,0 +1,31 @@
+Content_ID,Title,Genre,Platform,Release_Year,Country,Views_Millions,Rating,Duration_Minutes,Subscription_Type
+1,Midnight Vibes,Drama,Netflix,2022,USA,120,8.5,110,Premium
+2,Street Kings,Action,Amazon Prime,2021,UK,95,7.8,130,Standard
+3,Late Night Talks,Comedy,Netflix,2023,USA,150,8.9,90,Premium
+4,Love & Chaos,Romance,Showmax,2022,South Africa,80,7.5,105,Standard
+5,Deep Space,Science Fiction,Netflix,2023,Canada,200,9.1,140,Premium
+6,The Hustle Life,Documentary,Showmax,2021,South Africa,60,7.2,85,Basic
+7,Fast Lane,Action,Amazon Prime,2022,USA,170,8.3,125,Premium
+8,City Lights,Drama,Netflix,2021,UK,110,8,100,Standard
+9,Comedy Nights,Comedy,Showmax,2023,South Africa,90,7.9,95,Basic
+10,Hidden Truths,Thriller,Netflix,2022,USA,140,8.7,115,Premium
+11,Ocean Depths,Documentary,Netflix,2023,Australia,130,8.4,100,Premium
+12,Urban Beats,Music,Spotify,2022,USA,220,9,60,Premium
+13,Amapiano Nights,Music,Spotify,2023,South Africa,260,9.3,55,Premium
+14,Royal Secrets,Drama,Amazon Prime,2021,UK,85,7.6,120,Standard
+15,Galaxy Wars,Science Fiction,Netflix,2022,USA,210,9.2,150,Premium
+16,Heart Strings,Romance,Showmax,2023,South Africa,95,8.1,110,Standard
+17,Crime Files,Thriller,Amazon Prime,2022,USA,160,8.6,130,Premium
+18,Laugh Out Loud,Comedy,Netflix,2021,Canada,100,7.7,95,Basic
+19,Desert Storm,Action,Amazon Prime,2023,UAE,180,8.8,140,Premium
+20,Life Stories,Documentary,Showmax,2022,South Africa,70,7.4,90,Basic
+21,Neon Lights,Drama,Netflix,2023,USA,155,8.9,105,Premium
+22,Global Rhythms,Music,Spotify,2022,Brazil,190,8.7,65,Premium
+23,Fast Wheels,Action,Netflix,2021,USA,145,8.2,120,Standard
+24,Love Letters,Romance,Showmax,2022,South Africa,85,7.8,100,Standard
+25,Tech Titans,Documentary,Netflix,2023,USA,175,9,110,Premium
+26,Stand Up SA,Comedy,Showmax,2023,South Africa,105,8.3,80,Basic
+27,Dark Nights,Thriller,Amazon Prime,2021,UK,115,8.1,125,Standard
+28,Future World,Science Fiction,Netflix,2022,USA,205,9.1,145,Premium
+29,Island Dreams,Drama,Netflix,2021,Australia,98,7.9,100,Basic
+30,Soul Sessions,Music,Spotify,2023,USA,240,9.2,70,Premium
