@@ -87,7 +87,7 @@ ORDER BY market_share_percentage DESC;
 
 -- =========================================
 
--- 10. SOUTH AFRICAN CONTENT PERFORMANCE
+-- 8. SOUTH AFRICAN CONTENT PERFORMANCE
 
 SELECT
   title,
